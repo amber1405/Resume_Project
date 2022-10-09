@@ -29,7 +29,7 @@ body::-webkit-scrollbar {
     color: white;
     margin: 0;
     margin-right: 5%;
-    display: none;
+    display: none; 
 }
 
 .bars i {
@@ -53,6 +53,7 @@ body::-webkit-scrollbar {
     display: block;
     position: absolute;
     right: 3%;
+    
 }
 
 .dropdown-list li{
